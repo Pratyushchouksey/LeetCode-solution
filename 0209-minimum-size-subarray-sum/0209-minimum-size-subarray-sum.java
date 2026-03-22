@@ -19,7 +19,6 @@ class Solution {
                 low++;
             }
         }
-
         return res == Integer.MAX_VALUE ? 0 : res;
     }
 }
