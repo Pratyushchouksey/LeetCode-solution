@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -38,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
