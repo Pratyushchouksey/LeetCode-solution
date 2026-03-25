@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
