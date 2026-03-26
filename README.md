@@ -50,5 +50,18 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
