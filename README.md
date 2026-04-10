@@ -18,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0424-longest-repeating-character-replacement) |
