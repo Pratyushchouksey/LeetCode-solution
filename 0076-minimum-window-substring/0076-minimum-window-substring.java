@@ -1,46 +1,52 @@
 class Solution {
     public String minWindow(String s, String t) {
-         if (s.length() == 0 || t.length() == 0) return "";
+        if (s.length() < t.length()) return "";
 
-        // Frequency map for characters in t
-        int[] freq = new int[128];
+        int[] freqT = new int[256];
+        int[] freqS = new int[256];
+
+        // Fill freqT
         for (char c : t.toCharArray()) {
-            freq[c]++;
+            freqT[c]++;
         }
 
         int left = 0, right = 0;
         int required = t.length();
+        int formed = 0;
+
         int minLen = Integer.MAX_VALUE;
         int start = 0;
 
         while (right < s.length()) {
             char r = s.charAt(right);
-            // If character in s is part of t, decrease required
-            if (freq[r] > 0) {
-                required--;
-            }
-            freq[r]--;
-            right++;
 
-            // When we have all characters
-            while (required == 0) {
-                if (right - left < minLen) {
-                    minLen = right - left;
+            freqS[r]++;
+
+            // If this char contributes to requirement
+            if (freqT[r] > 0 && freqS[r] <= freqT[r]) {
+                formed++;
+            }
+
+            // When valid window
+            while (formed == required) {
+
+                if (right - left + 1 < minLen) {
+                    minLen = right - left + 1;
                     start = left;
-                     }
+                }
 
                 char l = s.charAt(left);
+                freqS[l]--;
 
-                // Remove left character from window
-                freq[l]++;
-
-                // If this char is now needed again
-                if (freq[l] > 0) {
-                    required++;
+                // If removing breaks requirement
+                if (freqT[l] > 0 && freqS[l] < freqT[l]) {
+                    formed--;
                 }
 
                 left++;
             }
+
+            right++;
         }
 
         return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
