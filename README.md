@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -54,10 +56,12 @@
 | [0005-longest-palindromic-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +97,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
