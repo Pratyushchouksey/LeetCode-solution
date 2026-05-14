@@ -46,6 +46,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
 ## Recursion
 |  |
@@ -58,6 +59,7 @@
 | [0027-remove-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0424-longest-repeating-character-replacement) |
