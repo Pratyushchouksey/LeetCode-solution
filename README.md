@@ -50,11 +50,13 @@
 | [0141-linked-list-cycle](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -105,6 +108,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
