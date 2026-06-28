@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0287-find-the-duplicate-number) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
