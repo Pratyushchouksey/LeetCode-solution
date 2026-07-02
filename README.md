@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -25,6 +26,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Binary Search
 |  |
 | ------- |
