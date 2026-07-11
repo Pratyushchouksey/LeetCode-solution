@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -21,12 +22,14 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
@@ -112,6 +115,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
