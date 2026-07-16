@@ -147,8 +147,13 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0918-maximum-sum-circular-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
