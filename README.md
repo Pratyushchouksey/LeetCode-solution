@@ -10,6 +10,7 @@
 | [0152-maximum-product-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0560-subarray-sum-equals-k) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
@@ -124,6 +127,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
