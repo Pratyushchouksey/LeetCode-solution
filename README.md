@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -102,6 +105,7 @@
 | [0076-minimum-window-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
@@ -127,6 +131,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
