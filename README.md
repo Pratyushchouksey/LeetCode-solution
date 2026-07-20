@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -114,6 +116,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
