@@ -15,14 +15,11 @@ class Solution {
             }
 
             int diff = zero-one;
-            
-            if (map.containsKey(diff)) {
 
-                res = Math.max(res, i - map.get(diff));
-
+            if (map.containsKey(diff)) {  //Ye difference pehle bhi aa chuka hai.
+                res = Math.max(res, i - map.get(diff)); //Maximum length update kar dete hain.
             } else {
-
-                map.put(diff, i);
+                map.put(diff, i);  //Ye difference pehli baar mila.
             }
         }
         return res;
