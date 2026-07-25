@@ -161,6 +161,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Queue
