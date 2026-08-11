@@ -114,6 +114,7 @@
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
@@ -129,6 +130,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0424-longest-repeating-character-replacement) |
 ## Queue
@@ -141,6 +143,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
