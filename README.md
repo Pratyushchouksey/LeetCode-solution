@@ -151,6 +151,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0496-next-greater-element-i) |
@@ -180,4 +181,16 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
