@@ -23,6 +23,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0009-palindrome-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
