@@ -175,6 +175,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0202-happy-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -225,4 +226,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0226-invert-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
