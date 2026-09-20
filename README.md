@@ -136,6 +136,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1189-maximum-number-of-balloons) |
+| [3498-reverse-degree-of-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -230,4 +231,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Pratyushchouksey/LeetCode-solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
